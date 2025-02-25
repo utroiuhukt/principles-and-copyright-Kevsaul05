@@ -10,15 +10,15 @@ These freedoms ensure that software remains accessible, modifiable, and shareabl
 Q2= How does the GNU Manifesto justify the ethical importance of free software?
 R2= The GNU Manifesto, written by Richard Stallman in 1985, argues that free software is essential for user freedom and ethical computing. Stallman believes that proprietary software restricts users' rights and creates an unjust power imbalance where companies control technology rather than the people who use it. He justifies free software as a moral obligation based on the Golden Rule—treating others as you would like to be treated. By ensuring that software remains freely available, users can learn from, modify, and share programs, fostering an open and collaborative society rather than a monopolized and restrictive one.
 
-Q3= 
+Q3= What is the difference between "open source" and "free software"?
+R3= While open source and free software share similarities, they emphasize different values:
+
+Free Software focuses on user freedom and ethical principles, ensuring that software remains accessible, modifiable, and shareable. The FSF emphasizes that “free” refers to freedom, not price.
+Open Source prioritizes practical benefits like collaboration and efficiency in software development. The Open Source Initiative (OSI) promotes an approach where businesses and developers work together, but it does not necessarily insist on the ethical dimensions that the FSF advocates.
 
 
 
-
-
-
-
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
