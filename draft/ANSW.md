@@ -7,7 +7,10 @@ Freedom 2 – The freedom to redistribute copies of the program to help others.
 Freedom 3 – The freedom to improve the program and share those improvements with the public (also requires access to the source code).
 These freedoms ensure that software remains accessible, modifiable, and shareable, promoting collaboration and user control over technology.
 
-Q2= Ethical Justification in the GNU Manifesto
+Q2= How does the GNU Manifesto justify the ethical importance of free software?
+R2= The GNU Manifesto, written by Richard Stallman in 1985, argues that free software is essential for user freedom and ethical computing. Stallman believes that proprietary software restricts users' rights and creates an unjust power imbalance where companies control technology rather than the people who use it. He justifies free software as a moral obligation based on the Golden Rule—treating others as you would like to be treated. By ensuring that software remains freely available, users can learn from, modify, and share programs, fostering an open and collaborative society rather than a monopolized and restrictive one.
+
+Q3= 
 
 
 
