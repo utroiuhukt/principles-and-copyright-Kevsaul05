@@ -1,3 +1,26 @@
+Q1= The Four Freedoms Defined by the Free Software Foundation
+R1= The Free Software Foundation (FSF) defines four essential freedoms that software must grant to be considered "free software":
+
+Freedom 0 – The freedom to run the program for any purpose.
+Freedom 1 – The freedom to study how the program works and modify it to suit one’s needs (requires access to the source code).
+Freedom 2 – The freedom to redistribute copies of the program to help others.
+Freedom 3 – The freedom to improve the program and share those improvements with the public (also requires access to the source code).
+These freedoms ensure that software remains accessible, modifiable, and shareable, promoting collaboration and user control over technology.
+
+Q2= Ethical Justification in the GNU Manifesto
+
+
+
+
+
+
+
+
+
+
+
+
+
 AI and Copyright: A Complex Legal Challenge
 The rise of artificial intelligence has sparked significant debate over copyright laws, particularly regarding AI-generated content and the datasets used to train these systems. As AI models become more advanced, they can produce text, images, and even music that closely resemble human-created works. This raises critical legal and ethical questions: Who owns AI-generated content, and is it fair to use copyrighted materials for training AI?
 
